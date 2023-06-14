@@ -4,9 +4,9 @@
       id="top-navbar--wrap"
       class="top-navbar">
       <div>
-        <a
+        <!-- <a
           class="aa pad-15 weight primary"
-          href="/">HOME</a>
+          href="/">HOME</a> -->
       </div>
       <div class="navber_right">
         <div 
@@ -30,15 +30,31 @@ export default {
     return {
       navigations : [
         {
-          name: 'INFO',
+          name: '사업안내',
           href: '',
         },
         {
-          name: 'PORTFOLIO',
+          name: '단지안내',
           href: ''
         },
         {
-          name: 'CONTACT',
+          name: '상품안내',
+          href: ''
+        },
+        {
+          name: '분양일정',
+          href: ''
+        },
+        {
+          name: '계약안내',
+          href: ''
+        },
+        {
+          name: '청약안내',
+          href: ''
+        },
+        {
+          name: '프리미엄',
           href: ''
         }
       ],
@@ -61,10 +77,12 @@ console.log(particlesLoaded);
 </script>
 
 <style lang="scss" scope>
-$primary: #69b3a2;
+$primary1: #001140;
+$primary2: #273D6B;
+$primary3: #C9DBED;
 
 .pad-15 {
-  padding: 15px;
+  padding: 15px 15px 10px 15px;
 }
 
 header { 
@@ -74,7 +92,7 @@ header {
     padding-top: 35px;
     padding-bottom: 30px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     .aa {
       font-size: 18px;
     &:hover {
@@ -87,8 +105,8 @@ header {
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       a {
         &:hover {
-          color: $primary;
-          border-bottom: 3px solid $primary;
+          color: $primary1;
+          border-bottom: 3px solid #001140;
         }
       }
     }

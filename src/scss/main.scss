@@ -3,7 +3,9 @@
 @import "../../node_modules/bootstrap-scss/mixins";
 @import "../../node_modules/bootstrap-scss/bootstrap.scss";
 
-$primary: #69b3a2;
+$primary1: #001140;
+$primary2: #273D6B;
+$primary3: #C9DBED;
 
 body {
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -18,7 +20,7 @@ a {
 }
 
 .primary {
-  color: $primary;
+  color: $primary1;
 }
 .weight {
   font-weight: bold;
