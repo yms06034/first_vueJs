@@ -77,7 +77,7 @@ header {
     justify-content: space-between;
     .aa {
       font-size: 18px;
-     &:hover {
+    &:hover {
         color: #251667; 
     }
       }

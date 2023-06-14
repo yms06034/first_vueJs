@@ -1,5 +1,5 @@
 <template>
-  <RouterView />
+  <Header />
   <Footer />
 </template>
 
@@ -11,6 +11,7 @@ console.log(Header);
 
 export default {
   components: {
+    Header,
     Footer
   }
 }
