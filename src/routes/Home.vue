@@ -18,14 +18,14 @@
     ref="scroll1">
     <img style="width: 100%;" src="../assets/main.png" alt="main" />
     <div class="body_content">
-      <img src="../assets/1/사업안내1.png" alt="content" />
-      <img src="../assets/1/사업안내2.jpg" alt="content" />
-      <img src="../assets/1/사업안내3.jpg" alt="content" />
-      <img src="../assets/1/사업안내4.jpg" alt="content" />
-      <img src="../assets/1/사업안내5.jpg" alt="content" />
-      <img src="../assets/1/사업안내6.jpg" alt="content" />
-      <img src="../assets/1/사업안내7.jpg" alt="content" />
-      <img src="../assets/1/사업안내8.jpg" alt="content" />
+      <img src="../assets/1/사업안내1.png" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내2.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내3.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내4.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내5.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내6.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내7.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내8.jpg" alt="천안 더샵 신부센트라" />
     </div>
   </section>
 
@@ -33,17 +33,17 @@
   <section
     ref="scroll2">
     <div class="body_content">
-      <img src="../assets/1/사업안내9.jpg" alt="content" />
-      <img src="../assets/1/사업안내10.jpg" alt="content" />
-      <img src="../assets/1/사업안내11.jpg" alt="content" />
-      <img src="../assets/1/사업안내12.jpg" alt="content" />
-      <img src="../assets/1/사업안내13.jpg" alt="content" />
-      <img src="../assets/1/사업안내14.jpg" alt="content" />
-      <img src="../assets/1/사업안내15.jpg" alt="content" />
-      <img src="../assets/1/사업안내16.jpg" alt="content" />
-      <img src="../assets/1/사업안내17.jpg" alt="content" />
-      <img src="../assets/1/사업안내18.jpg" alt="content" />
-      <img src="../assets/1/사업안내19.jpg" alt="content" />
+      <img src="../assets/1/사업안내9.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내10.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내11.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내12.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내13.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내14.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내15.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내16.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내17.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내18.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내19.jpg" alt="천안 더샵 신부센트라" />
     </div>
   </section>
 
@@ -51,20 +51,20 @@
   <section
     ref="scroll3">
     <div class="body_content">
-      <img src="../assets/1/사업안내20.jpg" alt="content" />
-      <img src="../assets/1/사업안내21.jpg" alt="content" />
-      <img src="../assets/1/사업안내22.jpg" alt="content" />
-      <img src="../assets/1/사업안내23.jpg" alt="content" />
-      <img src="../assets/1/사업안내24.jpg" alt="content" />
-      <img src="../assets/1/사업안내25.jpg" alt="content" />
-      <img src="../assets/1/사업안내26.jpg" alt="content" />
-      <img src="../assets/1/사업안내27.jpg" alt="content" />
-      <img src="../assets/1/사업안내28.jpg" alt="content" />
-      <img src="../assets/1/사업안내29.jpg" alt="content" />
-      <img src="../assets/1/사업안내30.jpg" alt="content" />
-      <img src="../assets/1/사업안내31.jpg" alt="content" />
-      <img src="../assets/1/사업안내32.jpg" alt="content" />
-      <img src="../assets/1/사업안내33.jpg" alt="content" />
+      <img src="../assets/1/사업안내20.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내21.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내22.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내23.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내24.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내25.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내26.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내27.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내28.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내29.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내30.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내31.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내32.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내33.jpg" alt="천안 더샵 신부센트라" />
     </div>
   </section>
 
@@ -72,18 +72,18 @@
   <section
     ref="scroll4">
     <div class="body_content">
-      <img src="../assets/1/사업안내53.jpg" alt="content" />
-      <img src="../assets/1/사업안내54.jpg" alt="content" />
-      <img src="../assets/1/사업안내55.jpg" alt="content" />
-      <img src="../assets/1/사업안내56.jpg" alt="content" />
-      <img src="../assets/1/사업안내57.jpg" alt="content" />
-      <img src="../assets/1/사업안내58.jpg" alt="content" />
-      <img src="../assets/1/사업안내59.jpg" alt="content" />
-      <img src="../assets/1/사업안내60.jpg" alt="content" />
-      <img src="../assets/1/사업안내61.jpg" alt="content" />
-      <img src="../assets/1/사업안내62.jpg" alt="content" />
-      <img src="../assets/1/사업안내63.jpg" alt="content" />
-      <img src="../assets/1/사업안내64.jpg" alt="content" />
+      <img src="../assets/1/사업안내53.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내54.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내55.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내56.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내57.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내58.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내59.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내60.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내61.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내62.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내63.jpg" alt="천안 더샵 신부센트라" />
+      <img src="../assets/1/사업안내64.jpg" alt="천안 더샵 신부센트라" />
     </div>
   </section>
 
