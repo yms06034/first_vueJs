@@ -1,4 +1,5 @@
 <template>
+  <Header />
   <RouterView />
   <Footer />
 </template>
@@ -7,10 +8,9 @@
 import Header from "~/components/Header";
 import Footer from "~/components/Footer";
 
-console.log(Header);
-
 export default {
   components: {
+    Header,
     Footer
   }
 }
